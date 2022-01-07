@@ -68,7 +68,10 @@ body{
   padding-left: 10px;
   padding-top: 9px;
 }
+.bx:hover{
+  background-color: #555;
+  transition: all 0.3s ease;
+}
 .link-items:not(:last-child){
   margin-right: 5px;
-
 }
